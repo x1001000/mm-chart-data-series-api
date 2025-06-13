@@ -1,7 +1,7 @@
 ---
-title: Mm Chart Data Series Api
-emoji: 🐢
-colorFrom: yellow
+title: MM Chart Data Series API
+emoji: 📊
+colorFrom: gray
 colorTo: green
 sdk: docker
 pinned: false
